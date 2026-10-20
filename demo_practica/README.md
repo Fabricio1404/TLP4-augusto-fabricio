@@ -19,7 +19,7 @@ npm install
 npm run dev
 ```
 
-Abrir `http://localhost:3000/salud` o probar en otra terminal:
+Abrir `http://localhost:3000/healthy` o probar en otra terminal:
 
 ```bash
 curl -X POST http://localhost:3000/api/precios/calcular \
