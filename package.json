@@ -1,0 +1,28 @@
+{
+  "name": "actividad-practica-solid",
+  "version": "1.0.0",
+  "description": "Actividad práctica de SOLID con TypeScript",
+  "scripts": {
+    "01-srp": "node ejercicios/01-srp.ts",
+    "02-ocp": "node ejercicios/02-ocp.ts",
+    "03-lsp": "node ejercicios/03-lsp.ts",
+    "04-isp": "node ejercicios/04-isp.ts",
+    "05-dip": "node ejercicios/05-dip.ts",
+    "typecheck": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabricio1404/TLP4-augusto-fabricio.git"
+  },
+  "keywords": [],
+  "author": "Fabricio Augusto",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Fabricio1404/TLP4-augusto-fabricio/issues"
+  },
+  "homepage": "https://github.com/Fabricio1404/TLP4-augusto-fabricio#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
