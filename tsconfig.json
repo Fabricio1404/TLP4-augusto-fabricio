@@ -9,6 +9,9 @@
     "noEmit": true,
     // Solo permite sintaxis de TS que Node puede "borrar" sin transformar el codigo
     "erasableSyntaxOnly": true,
+    // permite importar con la extension .ts (ej4 importa las clases de ej3.ts)
+    "allowImportingTsExtensions": true,
+    "types": ["node"],
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
     "skipLibCheck": true
