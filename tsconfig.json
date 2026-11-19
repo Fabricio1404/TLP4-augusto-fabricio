@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    // Node ejecuta los .ts directamente, TypeScript solo revisa los tipos
+    "target": "esnext",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "strict": true,
+    "noEmit": true,
+    "erasableSyntaxOnly": true,
+    // cada archivo es independiente (así ej1 y ej4 pueden tener cada uno su "Inventario")
+    "moduleDetection": "force",
+    "skipLibCheck": true
+  },
+  "include": ["*.ts"]
+}
