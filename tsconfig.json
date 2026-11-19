@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    // Node ejecuta los .ts directamente (borra los tipos), asi que TypeScript
+    // solo lo usamos para revisar errores de tipos, no para generar .js
+    "target": "esnext",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "strict": true,
+    "noEmit": true,
+    // Solo permite sintaxis de TS que Node puede "borrar" sin transformar el codigo
+    "erasableSyntaxOnly": true,
+    "verbatimModuleSyntax": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true
+  },
+  "include": ["*.ts"]
+}

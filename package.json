@@ -1,0 +1,20 @@
+{
+  "name": "poo-cuatro-pilares",
+  "version": "1.0.0",
+  "description": "Práctica de los 4 pilares de la POO + getters y setters",
+  "scripts": {
+    "ej1": "node ej1.ts",
+    "ej2": "node ej2.ts",
+    "ej3": "node ej3.ts",
+    "ej4": "node ej4.ts",
+    "ej5": "node ej5.ts",
+    "typecheck": "tsc"
+  },
+  "keywords": [],
+  "author": "Fabricio Augusto",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
