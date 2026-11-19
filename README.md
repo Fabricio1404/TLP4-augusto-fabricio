@@ -2,6 +2,12 @@
 
 **Alumno:** Fabricio Augusto
 
+### Equipo docente
+
+- **Profesor a cargo (Titular):** Sanabria, Alejandro Daniel
+- **Jefe de Trabajos Prácticos:** Centurión, Agustín Misael
+- **Auxiliares de Trabajos Prácticos:** Chaves Fiore, Augusto; Serrano, Cristian D.
+
 Este repositorio reúne los trabajos prácticos de la materia. **Cada actividad está en su propia rama**, que tiene solo los archivos de ese trabajo y su historial de commits.
 
 ## Actividades
